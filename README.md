@@ -1,0 +1,2 @@
+# learningAi
+practice ai project 
