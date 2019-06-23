@@ -1,2 +1,3 @@
-# learningAi
-practice ai project 
+# cuda
+cuda笔记梳理
+
